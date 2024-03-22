@@ -18,4 +18,4 @@ app = gr.Interface(ArPaathshsalaImageApp,
                    theme = gr.themes.Soft(),
                    title = "AR Paathshala Image Generator")
 
-#app.launch()
+app.launch()
